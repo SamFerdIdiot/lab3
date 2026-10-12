@@ -1,0 +1,5 @@
+/Users/afftobuss/Documents/university/protectsystemLab/lab3/build/CMakeFiles/mypipefifo.dir
+/Users/afftobuss/Documents/university/protectsystemLab/lab3/build/CMakeFiles/mywriter.dir
+/Users/afftobuss/Documents/university/protectsystemLab/lab3/build/CMakeFiles/myreader.dir
+/Users/afftobuss/Documents/university/protectsystemLab/lab3/build/CMakeFiles/edit_cache.dir
+/Users/afftobuss/Documents/university/protectsystemLab/lab3/build/CMakeFiles/rebuild_cache.dir
